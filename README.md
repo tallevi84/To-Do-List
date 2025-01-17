@@ -1,3 +1,3 @@
 # To-Do-List
-In this project I made a to do list.
+An online to-do list application built with JavaScript, HTML, CSS, and EJS. Includes features such as task addition, deletion, and persistent storage using MongoDB.
 Enjoy!
